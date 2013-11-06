@@ -11,7 +11,7 @@ import edu.iiitb.mergesort.MergeSort;
 
 /**
  * This tests the Merge sort.
- * Check github
+ * Check git hub
  * 
  */
 public class MergeSortJunitTest extends BasicJunit {
