@@ -20,7 +20,7 @@ public class MergeSortJunitTest extends BasicJunit {
 
 	/**
 	 * This is a stand alone test case to sort a given set of input data.
-	 * 
+	 * testing
 	 */
 	@Test
 	@Category(StandAloneSuiteTest.class)
