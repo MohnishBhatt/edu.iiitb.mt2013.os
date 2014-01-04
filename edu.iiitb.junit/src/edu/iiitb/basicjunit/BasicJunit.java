@@ -8,7 +8,8 @@ import java.util.ResourceBundle;
  * This is the basic Junit class which will be extended by the modules to make
  * test cases for their modules.
  * 
- * The parameters or the test data
+ * The parameters or the test data will be maintained in the respective Junit
+ * files of the modules.
  * 
  * @author mohnish
  * 
