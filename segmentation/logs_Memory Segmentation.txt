@@ -1,0 +1,13 @@
+[2013-12-29 01:25:05.455] User selected No. of bits as: 10 and therefore a physical memory view of size: 1024 is created in this view.
+[2013-12-29 01:25:05.455] 'Create a Process' was clicked.
+[2013-12-29 01:25:05.455] Running First Fit Allocation Policy
+[2013-12-29 01:25:05.455] Process Count increased to: 1
+[2013-12-29 01:25:05.455] User created a process.
+[2013-12-29 01:25:05.455] Size of the Process 1 is : 426. Size of the Segments are: 42 Bytes CONSTANTS, 48B GLOBALS, 56B CODE, 93B HEAP, 187B STACK. 
+[2013-12-29 01:25:05.455] Available Memory: 598
+[2013-12-29 01:25:05.455] 'Create a Process' was clicked.
+[2013-12-29 01:25:05.455] Running First Fit Allocation Policy
+[2013-12-29 01:25:05.455] Process Count increased to: 2
+[2013-12-29 01:25:05.455] User created a process.
+[2013-12-29 01:25:05.455] Size of the Process 2 is : 501. Size of the Segments are: 50 Bytes CONSTANTS, 56B GLOBALS, 65B CODE, 110B HEAP, 220B STACK. 
+[2013-12-29 01:25:05.455] Available Memory: 97
